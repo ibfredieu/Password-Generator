@@ -27,13 +27,13 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-Mock-Up
-
+# Mock-Up
+https://courses.bootcampspot.com/courses/1748/files/1852788/preview
 
 The following image shows the web application's appearance and functionality:
 A screenshot displays a sample password generator.
 
-How to Complete the Challenge
+# How to Complete the Challenge
 
 Follow these steps to complete the challenge:
 IMPORTANT
@@ -44,6 +44,6 @@ Ensure that your work meets the full list of grading requirements below.
 Reach out to your classmates and instructional support team for help if you need it.
 Follow the submission instructions.
 
-NOTE
+# NOTE
 
 After this week, the preceding steps will not be included in Challenge instructions in order to simulate a typical work experience where the developer determines how to solve an issue on their own.
