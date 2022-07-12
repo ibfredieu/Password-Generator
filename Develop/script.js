@@ -1,5 +1,5 @@
 // Assignment code here
-// Functions to randomly Generate Passwords https://www.net-comber.com/charset.html
+// Functions to randomly Generate Passwords with the help of .fromCharCode https://www.net-comber.com/charset.html
 function lowerCase() {
   //Sting.fromCharCode will generate charecters based off there code // Math.Random Generates a Random Decimal * (sets a limit)
   //Math.floor will round down the Decimal
@@ -65,6 +65,11 @@ if (wantSymbols) {
 }
 
 // * Should I make a prompt in the scenario that the user selects no for everything??? *
+// ** This code feels wrong ** Do more research **
+//if (wantLowerCase === false && wantUpperCase === false || wantNumbers === false && wantSymbols === false) {
+ // alert("For a more secure Password, Pleaase select either Upper or Lower case Letter or a Number or Symbol.");
+//}
+
 // **** I need a way to combine the results **** review JavaSrcipt Book and check Online resources ****
 
 // Get references to the #generate element
